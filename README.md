@@ -25,13 +25,14 @@
 
 ### 📫 Let's connect!
 
-[![LinkedIn](www.linkedin.com/in/juan-david-lamus-rincon-15112136b)
-📧 lamusrinconjd@gmail.com *(actualiza con tu correo real)*
+[![LinkedIn] (www.linkedin.com/in/juan-david-lamus-rincon-15112136b)
+
+📧 lamusrinconjd@gmail.com 
 
 ## 📊 GitHub Stats
 
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDLRPHY22&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLRPHY22&layout=compact&theme=tokyonight)
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDLR22PHY&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDLR22PHY&layout=compact&theme=tokyonight)
 
 ---
 
