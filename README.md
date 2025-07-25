@@ -26,6 +26,7 @@
 ### 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-david-lamus-rincon-15112136b)
+
 📧 lamusrinconjd@gmail.com 
 
 ## 📊 GitHub Stats
