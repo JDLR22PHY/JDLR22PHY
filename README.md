@@ -25,7 +25,7 @@
 
 ### 📫 Let's connect!
 
-[![LinkedIn] (www.linkedin.com/in/juan-david-lamus-rincon-15112136b)
+[![LinkedIn](www.linkedin.com/in/juan-david-lamus-rincon-15112136b)
 
 📧 lamusrinconjd@gmail.com 
 
